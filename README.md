@@ -38,7 +38,7 @@
 </div>
     
 <div align="center">
-<img src="https://github.com/Mathdal002/Mathdal002/assets/123910054/58376b3a-33b9-44d3-9836-da319bde3fd0" width="300px" />
+<img src="https://github.com/Gustavokermes/GustavoKermes/assets/123910054/58376b3a-33b9-44d3-9836-da319bde3fd0" width="300px" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
