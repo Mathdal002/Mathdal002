@@ -42,7 +42,8 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
-##
-  ![ Animação de cobra ](https://github.com/camilafernanda/camilafernanda/blob/output/github-contribution-grid-snake.svg)
+
+
+##![ Animação de cobra ](https://github.com/camilafernanda/camilafernanda/blob/output/github-contribution-grid-snake.svg)
 
 
