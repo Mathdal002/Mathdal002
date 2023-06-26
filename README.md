@@ -28,7 +28,7 @@
  
  ### Main skills:
 ![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=FF0000)&nbsp;
-![Java]()&nbsp;
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
 ![QTCreator](https://img.shields.io/badge/QTCreator-0D1117.svg?style=for-the-badge&logo=Qt&logoColor=FF0000)&nbsp;
 
 <div align="center">
