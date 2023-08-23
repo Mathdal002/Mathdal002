@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
+
 
 <div align="center">
 <img src="https://github.com/Gustavokermes/GustavoKermes/assets/123910054/53ca4c8b-f3c6-4e3d-869b-aab9490a8c01" width="100px" />
