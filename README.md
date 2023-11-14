@@ -1,8 +1,6 @@
 
 
-<div align="center">
-<img src="https://github.com/Gustavokermes/GustavoKermes/assets/123910054/53ca4c8b-f3c6-4e3d-869b-aab9490a8c01" width="100px" />
-</div>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Matheus+Duarte;I'm+21+years+old;I'm+from+Brazil;I+Graduated+computer+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
